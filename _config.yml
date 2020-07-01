@@ -15,7 +15,7 @@
 remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-disqus_url: "shinhan.disqus.com"
+disqus_url: "https://shinhan.disqus.com"
 disqus_id : "shinhan"
 
 # Site Settings
