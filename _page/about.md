@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: single
+layout: home
 ---
 
 ## shinhan1.github.io 블로그
