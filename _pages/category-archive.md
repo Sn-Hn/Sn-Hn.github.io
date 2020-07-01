@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-layout: categories/:code
+layout: categories/code/
 permalink: /code/
 author_profile: true
 ---
