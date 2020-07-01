@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Project"
     url: /project/
-  - title: "Coding"
+  - title: "Code"
     url: /code/
   - title: "Posts"
     url: /posts/
