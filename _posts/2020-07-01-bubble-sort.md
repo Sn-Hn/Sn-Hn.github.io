@@ -1,7 +1,7 @@
 ---
 title: "정렬 - 버블 정렬"
 date: 2020-07-01 18:15:35 -0400
-categories: programmers
+categories: sort
 ---
 
 # 버블정렬 (Bubble Sort)  
