@@ -1,6 +1,6 @@
 ---
 title: "Code by Category"
-layout: category
+layout: categories
 permalink: /code/
 author_profile: true
 ---
