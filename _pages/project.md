@@ -30,9 +30,23 @@ layout: single
   1. 회원의 입/퇴실 정보 검색 기능 구현  
   
   
+# Project 2 : JSP를 이용한 재단 웹 페이지 (SAFETY)
+[JSP를 이용한 재단 웹 페이지(SAFETY) git](https://github.com/Shinhan1/Team_Project)  
+[JSP를 이용한 재단 웹 페이지(SAFETY) blog (아직 blog에 올리지 못함)]  
+- 재단 홈페이지인 세이브 더 칠드런 본따 만든 **JSP** 웹 사이트입니다.  
+- 개발 환경 : Eclipse, SQL Developer(Oracle 11g), Tomcat9.0  
+- 구성 내용
+  1. 메인, 회원가입, 로그인, 후원(결제), Google Map API, FAQ, 1:1문의, 마이페이지  
 
-
-
+# Project 3 : Spring Framework를 이용한 업무 협업 웹 페이지
+[Spring Framework를 이용한 업무 협업 웹 페이지 git](https://github.com/Shinhan1/Assemble_Team)  
+[Spring Framework를 이용한 업무 협업 웹 페이지 blog (아직 blog에 올리지 못함)]  
+- Kakao Enterprise의 아지트를 본따 만든 **Sprig Framework** 웹 사이트입니다.  
+- 개발 환경 : Eclipse, SQL Developer(MySQL), Tomcat9.0, Amazon Web Services  
+- 구성 내용
+  1. 회원가입  
+    - 업무 협업 웹 사이트이므로 따로 회원들이 회원가입을 하는 형태가 아니고 하나의 업무 환경을 대표자가 만들게 되면 그 환경에 회원들을 초대하는 방식으로 되어있습니다.  
+    - 초대받은 회원들은 메일로 암호화된 URL이 전송되는데 그 URL을 통한 회원가입을 해야 회원가입이 완료됩니다.  
 
 
 
