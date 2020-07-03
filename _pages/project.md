@@ -1,8 +1,12 @@
 ---
-title: "About"
+title: "Project"
 permalink: /project/
 layout: single
 ---
+
+'첫 단추를 잘 꿰어야한다'  
+프로젝트들을 만들면서 처음 설계가 아주 중요하다는 것을 느끼게 되었습니다.
+
 
 # Project 1 : Java Swing을 이용한 인사 관리 프로그램
 [Java Swing을 이용한 인사 관리 프로그램 git](https://github.com/Shinhan1/java_Personal_manager)  
