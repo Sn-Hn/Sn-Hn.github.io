@@ -60,7 +60,7 @@ public class Merge_sort {
 
 	
 	
-     public static void main(String[] args) {
+    public static void main(String[] args) {
 	int[] arr = {5, 3, 4, 2, 1, 7, 12, 1341,1561, 15};
 	int[] list = {58,8,28,3,18,6,33,20};
         int size = list.length;
