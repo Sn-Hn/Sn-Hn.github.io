@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /about/
+permalink: /project/
 layout: single
 ---
 
