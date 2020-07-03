@@ -2,6 +2,6 @@
 title: "Code by Category"
 layout: categories
 category: coding
-permalink: /code/
+permalink: /categories/
 author_profile: true
 ---
