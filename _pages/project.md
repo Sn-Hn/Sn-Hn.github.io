@@ -5,8 +5,8 @@ layout: single
 ---
 
 # Project 1 : Java Swing을 이용한 인사 관리 프로그램
-[Java Swing을 이용한 인사 관리 프로그램 git] (https://github.com/Shinhan1/java_Personal_manager)
-[Java Swing을 이용한 인사 관리 프로그램 blog (아직 blog에 올리지 못함)]
+[Java Swing을 이용한 인사 관리 프로그램 git] (https://github.com/Shinhan1/java_Personal_manager)  
+[Java Swing을 이용한 인사 관리 프로그램 blog (아직 blog에 올리지 못함)]  
 - 학원 출결 관리, 인사 관리를 보고 만들어 본 **Java Swing** 프로그램입니다.  
 - 개발 환경 : Eclipse, SQL Developer(Oracle 11g)  
 - 구성 내용 (기본적인 내용)  
