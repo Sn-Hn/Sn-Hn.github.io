@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "신한"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "서울"
