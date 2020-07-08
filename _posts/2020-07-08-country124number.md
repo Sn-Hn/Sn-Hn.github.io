@@ -29,7 +29,8 @@ categories: programmers
   - n은 500,000,000이하의 자연수 입니다. 
   
 - 입출력 예  
-  |n |	result |
+
+  | n |	result |
   |:---:|:---:|
   |1 |	1|
   |2 |	2|
