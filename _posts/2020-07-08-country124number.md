@@ -4,7 +4,7 @@ date: 2020-07-08 17:05:16 -0400
 categories: programmers
 ---
 
-# 문제 멀쩡한 사각형
+# 문제 124 나라의 숫자
 - 문제 링크
 [Programmers 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
 
