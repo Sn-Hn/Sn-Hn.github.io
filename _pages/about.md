@@ -21,7 +21,7 @@ layout: single
 [Project](https://shinhan1.github.io/project)
 
 ## Programmers
-[Programmers 아직 X]
+[Programmers](https://shinhan1.github.io/categories/#programmers)
 
 ## BAEKJOON
 [BAEKJOON 아직 X]
