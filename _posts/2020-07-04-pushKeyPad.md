@@ -117,6 +117,7 @@ public static int absoluteValue(int n) {
   4 | 5 | 6
   7 | 8 | 9
   10 | 11 | 12
+  
 위 처럼 바꾸어서 풀었기 때문입니다.  
 0으로 계산하게 된다면 distance값이 달라지므로 if문으로 변경시켜주었습니다.  
 
