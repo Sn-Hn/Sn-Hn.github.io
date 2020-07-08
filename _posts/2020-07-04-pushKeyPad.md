@@ -114,7 +114,6 @@ public static int absoluteValue(int n) {
 
 위의 number와 location이 0일 때, 11로 변경시켜준 이유는 저는 키패드를  
 
-   | | 
   |-|-|-|
   1 | 2 | 3
   4 | 5 | 6
