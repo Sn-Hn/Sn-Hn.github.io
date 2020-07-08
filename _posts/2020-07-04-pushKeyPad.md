@@ -2,6 +2,9 @@
 title: "프로그래머스 - [카카오 인턴] 키패드 누르기"
 date: 2020-07-03 16:07:44 -0400
 categories: programmers kakao2020
+# 목차
+toc: true  
+toc_sticky: true
 ---
 
 # 문제 키패드 누르기
