@@ -120,7 +120,7 @@ public class IntactQuadrangle {
 
 무엇이 문제인지 System.out.println()으로 변수들을 찍어보았는데,  
 ```answer = w*h``` 에서 w와 h값이 커지면 answer이 값을 못 받고 있었다...  
-w와 h가 int형으로 되어있었기 때문이다.  
+w와 h가 int형으로 되어있어서 그런가??    
 그래서 인자들의 자료형을 long으로 바꿔주었다.  
 
 ```
