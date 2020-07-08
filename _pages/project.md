@@ -2,6 +2,9 @@
 title: "Project"
 permalink: /project/
 layout: single
+# 목차
+toc: true  
+toc_sticky: true
 ---
 
 '첫 단추를 잘 꿰어야한다'  
