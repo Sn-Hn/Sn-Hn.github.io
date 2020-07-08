@@ -37,7 +37,7 @@ categories: programmers
 이 문제에 접근할 때, 처음 들었던 생각은 그림에서 사용하지 못하는 사각형 즉, 하얀색 사각형이 반복된다는 것이었다.  
 w=2, h=3인 사각형이 반복되어 4개의 w=2 h=3인 사각형이 생겼다.  
 8x12사각형에서 대각선을 이으면 꼭지점이 생긴다.  
-![Inked멀쩡한 사각형_LI](https://user-images.githubusercontent.com/40006670/86885530-67a9e580-c130-11ea-9749-3b9b1d1f96df.jpg)
+![Inked멀쩡한 사각형_LI](https://user-images.githubusercontent.com/40006670/86885530-67a9e580-c130-11ea-9749-3b9b1d1f96df.jpg)  
 **위 사진을 보면 2x3사각형을 지날때마다 정확히 꼭지점을 지나게 된다.**   
 2x3을 구해 4를 곱하면 사용하지 못하는 사각형의 수가 나오게 된다.  
 여기서 4는 무엇일까  
@@ -115,8 +115,8 @@ public class IntactQuadrangle {
 }
 ```
 위의 Code로 테스트 케이스 성공, 하지만  
-![멀쩡한 사각형 test1](https://user-images.githubusercontent.com/40006670/86887097-09cacd00-c133-11ea-96b7-bc34212508a1.PNG)
-통과 실패 !!  
+![멀쩡한 사각형 test1](https://user-images.githubusercontent.com/40006670/86887097-09cacd00-c133-11ea-96b7-bc34212508a1.PNG)  
+통과 실패 ??  
 
 무엇이 문제인지 System.out.println()으로 변수들을 찍어보았는데,  
 ```answer = w*h``` 에서 w와 h값이 커지면 answer이 값을 못 받고 있었다...  
