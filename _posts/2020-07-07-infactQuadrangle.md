@@ -189,6 +189,7 @@ Long.parseLong()은 기본적으로 String을 받기 때문에 w와 h를 String�
 이렇게 최종 성공!
 
 # 최종 Java Code
+```
 public class IntactQuadrangle {
 	public long solution(int w, int h) {
 		long answer = 1;
@@ -230,5 +231,5 @@ public class IntactQuadrangle {
 	}
 
 }
-
+```
 
