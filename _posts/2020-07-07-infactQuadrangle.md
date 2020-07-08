@@ -232,4 +232,44 @@ public class IntactQuadrangle {
 
 }
 ```
+# 다른 사람의 풀이 #1
+```
+class Solution {
+    public long solution(int w,int h) {
+        long min=Math.min(w, h);
+        long max=Math.max(w, h);
+        long remain=1;
+        while(remain>0) {
+            remain=max%min;
+            max=min;
+            min=remain;
+        }
+        long answer = (long)w*(long)h-max*(w/max + h/max -1);
+        return answer;
+    }
+}
+```
+
+# 다른 사람의 풀이 #2
+```
+import java.math.BigInteger;
+
+public class Solution {
+
+    public long solution(int w, int h) {
+        long totalCount = (long) w * (long) h;
+        long diagonalCount = w + h - BigInteger.valueOf(w).gcd(BigInteger.valueOf(h)).longValue();
+
+        return totalCount - diagonalCount;
+    }
+}
+```
+
+# 느낀점
+세상은 넓고 고수는 많다...........배우고 싶다....  
+
+아무튼 이 문제는 세 가지만 알면 풀 수 있는 문제인 것 같다!!  
+1. 최대공약수 추출
+1. 멀쩡하지 못한 사각형 구하는 식 세우기
+1. int형을 long형으로 바꾸기!
 
