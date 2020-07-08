@@ -2,6 +2,9 @@
 title: "프로그래머스 - 124 나라의 숫자"
 date: 2020-07-08 17:05:16 -0400
 categories: programmers
+# 목차
+toc: true  
+toc_sticky: true
 ---
 
 # 문제 124 나라의 숫자
