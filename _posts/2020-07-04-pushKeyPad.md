@@ -113,6 +113,8 @@ public static int absoluteValue(int n) {
 그냥 속도가 더 빠르더라구요 ㅎㅎ Math함수 쓰셔도 됩니다!!
 
 위의 number와 location이 0일 때, 11로 변경시켜준 이유는 저는 키패드를  
+
+  | | | |
   |-|-|-|
   1 | 2 | 3
   4 | 5 | 6
