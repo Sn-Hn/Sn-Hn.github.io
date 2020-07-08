@@ -232,10 +232,10 @@ public class IntactQuadrangle {
 	}
 
 }
+```
 
 -------------------------------------------------
 
-```
 # 다른 사람의 풀이 #1
 ```
 class Solution {
