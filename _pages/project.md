@@ -12,7 +12,7 @@ toc_sticky: true
 
 
 # Project 1 : Java Swing을 이용한 인사 관리 프로그램
-[Java Swing을 이용한 인사 관리 프로그램 git](https://github.com/Shinhan1/java_Personal_manager)  
+[Java Swing을 이용한 인사 관리 프로그램 git](https://github.com/Sn-Hn/java_Personal_manager)  
 [Java Swing을 이용한 인사 관리 프로그램 blog (아직 blog에 올리지 못함)]  
 - 학원 출결 관리, 인사 관리를 보고 만들어 본 **Java Swing** 프로그램입니다.  
 - 개발 환경 : Eclipse, SQL Developer(Oracle 11g)  
@@ -38,7 +38,7 @@ toc_sticky: true
   
   
 # Project 2 : JSP를 이용한 재단 웹 페이지 (SAFETY)
-[JSP를 이용한 재단 웹 페이지(SAFETY) git](https://github.com/Shinhan1/Team_Project)  
+[JSP를 이용한 재단 웹 페이지(SAFETY) git](https://github.com/Sn-Hn/Team_Project)  
 [JSP를 이용한 재단 웹 페이지(SAFETY) blog (아직 blog에 올리지 못함)]  
 - 재단 홈페이지인 세이브 더 칠드런 본따 만든 **JSP** 웹 사이트입니다.  
 - 개발 환경 : Eclipse, SQL Developer(Oracle 11g), Tomcat9.0  
@@ -46,7 +46,7 @@ toc_sticky: true
   1. 메인, 회원가입, 로그인, 후원(결제), Google Map API, FAQ, 1:1문의, 마이페이지  
 
 # Project 3 : Spring Framework를 이용한 업무 협업 웹 페이지
-[Spring Framework를 이용한 업무 협업 웹 페이지 git](https://github.com/Shinhan1/Assemble_Team)  
+[Spring Framework를 이용한 업무 협업 웹 페이지 git](https://github.com/Sn-Hn/Assemble_Team)  
 [Spring Framework를 이용한 업무 협업 웹 페이지 blog (아직 blog에 올리지 못함)]  
 - Kakao Enterprise의 아지트를 본따 만든 **Sprig Framework** 웹 사이트입니다.  
 - 개발 환경 : Eclipse, SQL Developer(MySQL), Tomcat9.0, Amazon Web Services  
