@@ -1,15 +1,15 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+remote_theme : aksakalli/jekyll-doc-theme
+title: Han's Tech Blog
+email: tlsgks8668@naver.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  느리더라도 꾸준하게.
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://Sn-Hn.github.io/" # the base hostname & protocol for your site
-git_address: "https://github.com/Sn-Hn/"
-git_edit_address: "https://github.com/Sn-Hn/"
+url: "https://Sn-Hn.github.io" # the base hostname & protocol for your site
+git_address: "https://github.com/Sn-Hn"
+git_edit_address: ""
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
