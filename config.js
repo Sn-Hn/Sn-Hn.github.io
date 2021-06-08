@@ -44,7 +44,7 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [{ text: 'Sn-Hn', link: 'https://Sn-Hn.github.io' }],
     frontline: false,
     ignoreIndex: true,
     title:

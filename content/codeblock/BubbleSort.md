@@ -1,13 +1,14 @@
-버블정렬
 ---
 title: "정렬 - 버블 정렬"
 date: 2020-07-01 18:15:35 -0400
 categories: sort
+metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaDescription: "This is the meta description for this page"
 ---
 
 # 버블정렬 (Bubble Sort)
 버블정렬은 서로 인접한 두 데이터를 비교하여 교환하는 정렬방식이다.
-```
+```javascript
 int[] arr = {1, 5, 7, 3, 2};
 ```
 위 코드처럼 배열이 있을 때, (오름차순)
@@ -45,7 +46,7 @@ int[] arr = {1, 5, 7, 3, 2};
 
 
 # Java 코드 (Bubble Sort)
-```
+```javascript
 public class Bubble_sort {
    // 버블정렬이 코딩하기 제일 쉽고 이해하기 쉬우나
    // 시간복잡도가 너무 커 잘 사용하지 않음
@@ -85,8 +86,5 @@ public class Bubble_sort {
 
 }
 ```
-
-
-
 
 
