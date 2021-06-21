@@ -2,7 +2,7 @@
 title: "정렬 - 병합 정렬"
 date: 2020-07-03 18:47:58 -0400
 categories: sort
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "Sn-Hn (병합 정렬)"
 metaDescription: "This is the meta description for this page"
 ---
 

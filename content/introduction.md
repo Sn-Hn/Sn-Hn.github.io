@@ -1,6 +1,6 @@
 ---
 title: "소개"
-metaTitle: "This is the title tag of this page"
+metaTitle: "Sn-Hn"
 metaDescription: "This is the meta description"
 ---
 

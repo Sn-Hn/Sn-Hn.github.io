@@ -2,7 +2,7 @@
 title: "정렬 - 삽입 정렬"
 date: 2020-07-01 18:44:13 -0400
 categories: sort
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "Sn-Hn (삽입 정렬)"
 metaDescription: "This is the meta description for this page"
 ---
 

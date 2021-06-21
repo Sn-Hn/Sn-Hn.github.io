@@ -2,7 +2,7 @@
 title: "정렬 - 버블 정렬"
 date: 2020-07-01 18:15:35 -0400
 categories: sort
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "Sn-Hn (버블 정렬)"
 metaDescription: "This is the meta description for this page"
 ---
 

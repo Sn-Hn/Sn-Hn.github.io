@@ -1,6 +1,6 @@
 ---
 title: "알고리즘"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "Sn-Hn"
 metaDescription: "This is the meta description for this page"
 ---
 
