@@ -6,24 +6,24 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
+    logo: 'https://Sn-Hn.github.io',
     logoLink: 'https://Sn-Hn.github.io/',
     title:
-      "<a href='https://Sn-Hn.github.io/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+      "<a href='https://Sn-Hn.github.io/'><!--<img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' />--></a>",
     githubUrl: 'https://github.com/Sn-Hn/gatsby-gitbook-boilerplate',
     helpUrl: '',
     tweetText: '',
     social: `<li>
-		    <a href="https://twitter.com/hasurahq" target="_blank" rel="noopener">
+		    <a href="https://twitter.com/" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
+		        <!--<img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>-->
 		      </div>
 		    </a>
 		  </li>
 			<li>
-		    <a href="https://discordapp.com/invite/hasura" target="_blank" rel="noopener">
+		    <a href="https://discordapp.com/" target="_blank" rel="noopener">
 		      <div class="discordBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
+		        <!--<img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>-->
 		      </div>
 		    </a>
 		  </li>`,
@@ -55,7 +55,7 @@ const config = {
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
     docsLocation: 'https://github.com/Sn-Hn/gatsby-gitbook-starter/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    // favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
