@@ -4,23 +4,13 @@ metaTitle: "Sn-Hn"
 metaDescription: "This is the meta description for this page"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+## 알고리즘
+[알고리즘 정리]
 
-```javascript
-import React from 'react';
-```
+## 백준
+[백준 문제 풀이]
 
-Supports multiple languages.
+## 프로그래머스
+[프로그래머스 문제 풀이]
 
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
 
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```

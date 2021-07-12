@@ -9,8 +9,9 @@ const config = {
     logo: 'https://Sn-Hn.github.io',
     logoLink: 'https://Sn-Hn.github.io/',
     title:
-      "<a href='https://Sn-Hn.github.io/'><!--<img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' />--></a>",
-    githubUrl: 'https://github.com/Sn-Hn/gatsby-gitbook-boilerplate',
+      //"<img class='img-responsive' src='../images/sn-hn-logo.png' alt='Learn logo' /" +
+      "<h2><a href='https://Sn-Hn/github.io'>Sn-Hn</a></h2>",
+    githubUrl: 'https://github.com/Sn-Hn',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -43,18 +44,24 @@ const config = {
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
+      '/algorithm',
+      '/cs',
+      '/book',
+      '/project',
+      '/blog',
     ],
-    links: [{ text: 'Sn-Hn', link: 'https://Sn-Hn.github.io' }],
+    links: [{ text: 'Sn-Hn', link: 'https://github.com/Sn-Hn' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://Sn-Hn.github.io/'>graphql </a><div class='greenCircle'></div><a href='https://Sn-Hn.github.io/'>react</a>",
+      // "<a href='https://Sn-Hn.github.io/'>graphql </a><div class='greenCircle'></div><a href='https://Sn-Hn.github.io/'>react</a>",
+      "<span>기록하는 개발자</span>"
   },
   siteMetadata: {
     title: 'Gatsby Gitbook Boilerplate | Hasura',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/Sn-Hn/gatsby-gitbook-starter/tree/master/content',
+    docsLocation: 'https://github.com/Sn-Hn',
     // favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
